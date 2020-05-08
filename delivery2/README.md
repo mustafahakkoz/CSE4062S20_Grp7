@@ -1,6 +1,6 @@
 ## delivery2
 
-Processing videos and axtracting hand-made features from frames are done. After constructing final dataframe (with 600K rows, 23 columns), statistics on columns are calculted. 
+Processing videos and extracting hand-made features from frames are done. After constructing final dataframe (with 600K rows, 23 columns), statistics on columns are calculated. 
 
 Folder Content:  
 - **Statistics output:** [stats.txt](https://github.com/mustafahakkoz/CSE4062S20_Grp7/blob/master/delivery2/stats.txt)  
