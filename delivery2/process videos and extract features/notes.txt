@@ -1,0 +1,5 @@
+- sunglasses from all subjects are excluded.
+- 2 rows added to start of annotations of evaluation dataset. (drowsiness: -1)
+- Training Set/015/glasses/nonsleepyCombination.avi is excluded since it has multiple faces conflicting.
+- Training Set/015/nightglasses is empty.
+- 'closeness' kolonu hatalı.
