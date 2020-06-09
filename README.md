@@ -19,4 +19,6 @@ http://cv.cs.nthu.edu.tw/php/callforpaper/datasets/DDD/
 - **Delivery-3 Report and Codes:** [delivery3](https://github.com/mustafahakkoz/CSE4062S20_Grp7/tree/master/delivery3)  
 - **Delivery-4 Report and Codes:** [delivery4](https://github.com/mustafahakkoz/CSE4062S20_Grp7/tree/master/delivery4)  
 - **Delivery-5 Report and Codes:** [delivery5](https://github.com/mustafahakkoz/CSE4062S20_Grp7/tree/master/delivery5)  
+- **Delivery-7 Final Presentation:** [delivery7](https://github.com/mustafahakkoz/CSE4062S20_Grp7/tree/master/delivery7)  
+
 
