@@ -4,11 +4,11 @@
 Frame by frame drowsiness detection on NTHU-DDD video dataset:  
 http://cv.cs.nthu.edu.tw/php/callforpaper/datasets/DDD/
 
-150115010 Mahmut AKTAŞ 
-150117509 Mustafa Abdullah HAKKOZ
-150416822 Ozan Berke YABAR 
-150515038 Ece HARPUTLU 
-150715035 Nurettin ABACI 
+150115010 Mahmut AKTAŞ  
+150117509 Mustafa Abdullah HAKKOZ. 
+150416822 Ozan Berke YABAR  
+150515038 Ece HARPUTLU  
+150715035 Nurettin ABACI  
 
 
 
